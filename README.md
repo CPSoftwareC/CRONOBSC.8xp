@@ -1,3 +1,4 @@
+<!-- README.md Versão 1.1 -->
 <h1>Prgm CRONOBSC (Cronómetro BASIC)</h1>
 
 <h3>Biografia</h3>
@@ -22,7 +23,7 @@
 
 <ol>
      <li><kbd>prgm</kbd></li>
-     <li><kbd>alpha</kbd> + <kbd>cos</kbd></li>
+     <li><kbd>alpha</kbd> + <kbd>prgm</kbd></li>
      <li>E selecionar o <em>CRONOBSC</em></li>
      <li>E por ultimo pressionar <kbd>enter</kbd></li>
 </ol>

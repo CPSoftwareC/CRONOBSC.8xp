@@ -1,9 +1,22 @@
-<!-- README.md Versão 1.1 -->
+<!-- README.md Versão 1.2 -->
 <h1>Prgm CRONOBSC (Cronómetro BASIC)</h1>
 
 <h3>Biografia</h3>
 
 <p>Desenvolvido em TI-BASIC. Programa de cronómetro para <em>TI-84 Plus CE/CE-T/CE-T Python Edition</em> e<em> TI-83 Premium CE</em>.</p>
+
+<h2>Versão <em><strong>1.0</strong></em></h2>
+
+<h3>Compatibilidade</h3>
+
+<ul>
+ <li>TI-84 Plus CE</li>
+ <li>TI-84 Plus CE-T</li>
+ <li>TI-84 Plus CE-T Python Edition</li>
+ <li>TI-84 Plus C Silver Edition</li>
+ <li>TI-83 Premium CE</li>
+ <li>TI-83 Premium CE Edition Python</li>
+</ul>
 
 <h3>Como instalar</h3>
 
